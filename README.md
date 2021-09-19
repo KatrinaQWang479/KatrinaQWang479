@@ -9,7 +9,7 @@
 
 ## Tags I Love?
 * Cristiano Ronaldo
-![image](https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/image.png)
+![image](https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/images.png)
 * Manchester United
 ![image](https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/13846.png)
 * Alexander Hamilton
