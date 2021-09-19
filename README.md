@@ -9,8 +9,10 @@
 
 ## Tags I Love?
 * Cristiano Ronaldo
-![image](https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/images.png)
+
+![image](https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/cristiano-ronaldo-football-cartoon-transparent-png-svg-vector-file-ronaldo-cartoon-png-512_512.png)
 * Manchester United
+
 ![image](https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/13846.png)
 * Alexander Hamilton
 * Gone With the Wind
