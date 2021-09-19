@@ -17,8 +17,16 @@
 <div align = center><img width="150" src="https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/13846.png"></div>
 
 * Alexander Hamilton
+
+<div align = center><img width="150" src="https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/hamilton-main-1.jpg"></div>
+
 * Gone With the Wind
-* Detective Conan
+
+<div align = center><img width="150" src="https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/Gone-With-the-Wind-criticism_555.jpg"></div>
+
+* Gin
+
+<div align = center><img width="150" src="https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/gin.jpg"></div>
 
 <!---
 KatrinaQWang479/KatrinaQWang479 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
