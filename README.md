@@ -10,10 +10,12 @@
 ## Tags I Love?
 * Cristiano Ronaldo
 
-![image](https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/cristiano-ronaldo-football-cartoon-transparent-png-svg-vector-file-ronaldo-cartoon-png-512_512.png)
+<div align = center><img width="150" src="https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/cristiano-ronaldo-football-cartoon-transparent-png-svg-vector-file-ronaldo-cartoon-png-512_512.png"></div>
+
 * Manchester United
 
-![image](https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/13846.png)
+<div align = center><img width="150" src="https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/13846.png"></div>
+
 * Alexander Hamilton
 * Gone With the Wind
 * Detective Conan
