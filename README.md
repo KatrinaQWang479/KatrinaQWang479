@@ -7,7 +7,7 @@
 * Email: [QWANG479 at WISC.EDU](qwang479@wisc.edu)
 * Twitter: [\@ Katrina Q. Wang](https://twitter.com/KatrinaQWang2)
 
-## Tags I Love?
+## I Am a Fan of...
 * Cristiano Ronaldo
 
 <div align = center><img width="150" src="https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/cristiano-ronaldo-football-cartoon-transparent-png-svg-vector-file-ronaldo-cartoon-png-512_512.png"></div>
