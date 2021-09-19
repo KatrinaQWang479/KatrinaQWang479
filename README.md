@@ -9,7 +9,9 @@
 
 ## Tags I Love?
 * Cristiano Ronaldo
+![image](https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/image.png)
 * Manchester United
+![image](https://github.com/KatrinaQWang479/KatrinaQWang479/blob/main/img%20folder/13846.png)
 * Alexander Hamilton
 * Gone With the Wind
 * Detective Conan
